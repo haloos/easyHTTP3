@@ -1,3 +1,3 @@
 # easyHTTP3 
 
-<h3>Some easyHTTP3 examples</h3>
+<h3><em>Some easyHTTP3 examples</em></h3>
